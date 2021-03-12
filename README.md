@@ -30,7 +30,7 @@ Build a real-time React.js chat room that allows users to log in and send each o
 # Submission
 
 Email us:
-1. A link to your own git repository
+1. A link to your own git repository (you can share a private github repo with https://github.com/taylorbryant)
 2. A link we can use to test out the app (you can use [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/treatmyocd), etc.)
 3. A way to give you 💸💰 (your Venmo, PayPal, Cash, etc.)
 
