@@ -6,6 +6,8 @@ This project is intended to:
 - Touch on some of the technology we use on the web team at NOCD ([Next.js](https://nextjs.org), [TypeScript](https://www.typescriptlang.org/), [Tailwind CSS](https://tailwindcss.com))
 - Help us understand how you approach problems and handle tradeoffs between time, code quality, and utility
 
+Do NOT copy a third party library or implementation. There's not much to review if the library does everything for you.
+
 We are respectful of your time. If we’ve requested you do this challenge, we’ll pay you **$200**, regardless if you’re ultimately hired or not.
 
 ## Project description
