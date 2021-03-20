@@ -1,6 +1,6 @@
 # Web Challenge
 
-> ℹ️ This is a fork of https://github.com/TruckMap/ChallengeJS.
+> ℹ️  This is a fork of https://github.com/TruckMap/ChallengeJS.
 
 This project is intended to:
 - Touch on some of the technology we use on the web team at NOCD ([Next.js](https://nextjs.org), [TypeScript](https://www.typescriptlang.org/), [Tailwind CSS](https://tailwindcss.com))
